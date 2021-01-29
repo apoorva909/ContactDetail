@@ -1,0 +1,7 @@
+::ng-deep table.mat-table {
+    width: 100%;
+}
+
+.add-btn {
+    margin: 10px;
+}

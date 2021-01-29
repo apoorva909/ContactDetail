@@ -1,0 +1,49 @@
+
+  .contact-info {
+      width: 100%;
+      padding: 6px;
+      background-color: #F0F8FF;
+  }
+  :host::ng-deep.mat-form-field-appearance-legacy .mat-form-field-underline {
+    background-color: #000080;
+  }
+  :host::ng-deep.mat-form-field-appearance-fill .mat-form-field-flex {
+    background-color:#FFFFFF
+  }
+.contact-title {
+    color: #000080;
+    font-family: sans-serif;
+    font-size: 17px;
+  }
+.para1 {
+    color: #000080;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+.para2 {
+    color: #000080;
+    font-family: serif;
+    font-size: 36px;
+    line-height: 34px;
+}
+.para3 {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+.name-div {
+    display: inline-flex
+}
+.last-name {
+    margin-left: 15px;
+}
+.email-phone {
+    width: 100%;
+}
+.button-style {
+    right:-5rem;
+}
+
+.contact-data-color{
+  color: red;
+  margin-left: 12rem;
+}
